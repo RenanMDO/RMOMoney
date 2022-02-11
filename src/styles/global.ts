@@ -4,7 +4,7 @@ export const GlobalStyle = createGlobalStyle`
   :root {
     --background: #fef2f5;
     --red: #E52E4D;
-    --blue: #5429CC;
+    --blue: linear-gradient(164deg, rgba(9,9,121,1) 0%, rgba(9,9,121,1) 25%, rgba(71,184,255,1) 100%);
     --green: #33cc95;
     --blue-light: #6933FF;
     --text-title: #363F5F;
