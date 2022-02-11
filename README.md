@@ -28,7 +28,7 @@ RMO Money is a simple and effective alternative to manage home finances, allowin
 <br>
 
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/457826470/4e9796db-9db3-4b27-a814-f78cedf08bc5'" alt="Cover RMO Money">
+  <img src="https://repository-images.githubusercontent.com/457826470/4e9796db-9db3-4b27-a814-f78cedf08bc5" alt="Cover RMO Money">
 </p>
 
 ## Technologies
